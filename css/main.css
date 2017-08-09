@@ -845,6 +845,7 @@ header .row {
 }
 
 header .logo {
+	max-width: auto;
 	margin-top: 2px;
 	z-index: 600;
 	position: absolute;
