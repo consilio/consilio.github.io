@@ -839,13 +839,13 @@ header {
 	transition: all 0.3s ease-in-out;
 }
 header .row {
+	max-width: 9999999999999px;
 	width: auto;
 	height: 66px;
 	position: relative;
 }
 
 header .logo {
-	max-width: 9999999999999px;
 	margin-top: 2px;
 	z-index: 600;
 	position: absolute;
