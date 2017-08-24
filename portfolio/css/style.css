@@ -31,12 +31,12 @@ h5,
 h6 {
 	font-weight: 200;
 	letter-spacing: 0.4px;
-	font-family: "Raleway", Sans-serif;
-	color: #232323;
+	font-family: "merriweather-bold", serif;
+	color: #005bea;
 }
 
 p {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 17px;
 	font-weight: 300;
 	line-height: 28px;
