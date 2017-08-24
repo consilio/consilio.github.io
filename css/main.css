@@ -1192,6 +1192,7 @@ a.menu-toggle {
 	min-height: 720px;
 	display: table;
 	position: relative;
+	background-image: url("../images/bg-01.svg");
 }
 ::selection {
     text-shadow: none;
